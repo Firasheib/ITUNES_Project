@@ -1,5 +1,4 @@
 # ITUNES_Project
-# Data Analyst Portfolio
 
 Welcome to my Data Analyst Portfolio! This repository showcases various projects that demonstrate my skills in data analysis, data warehousing, and business intelligence.
 
